@@ -1,0 +1,3 @@
+1. Clone and save in a folder
+2. Open cmd in the folder you saved at and run command: node app.js
+3. Enjoy!
