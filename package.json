@@ -1,0 +1,23 @@
+{
+  "name": "miniprj1",
+  "version": "1.0.0",
+  "description": "This is a small CLI for file management and system information retrieval",
+  "homepage": "https://github.com/thezenigma/Localised-CLI-for-File-Management-and-System-Information-Display#readme",
+  "bugs": {
+    "url": "https://github.com/thezenigma/Localised-CLI-for-File-Management-and-System-Information-Display/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thezenigma/Localised-CLI-for-File-Management-and-System-Information-Display.git"
+  },
+  "license": "ISC",
+  "author": "Nafiz Fuad Khan",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
